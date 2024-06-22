@@ -35,5 +35,5 @@ This is a classic 2D Snake Game implemented in Python using the Turtle graphics 
    - `snake_game.py`: Main Python script for the game.
    - `snake.py`: Snake class definition.
    - `food.py`: Food class definition.
-   - 'scoreboard.py': For monitering the score.
+   - `scoreboard.py`: For monitering the score.
 
