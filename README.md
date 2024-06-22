@@ -11,8 +11,8 @@ This is a classic 2D Snake Game implemented in Python using the Turtle graphics 
 
 2. Running the Game:
    - Clone this repository or download the source code.
-   - Navigate to the directory where `snake_game.py` is located.
-   - Run `python snake_game.py` in your terminal or command prompt.
+   - Navigate to the directory where `thegame.py` is located.
+   - Run `python thegame.py` in your terminal or command prompt.
 
 3. Game Controls:
    - Use the arrow keys (Up, Down, Left, Right) to control the snake's direction.
@@ -35,4 +35,5 @@ This is a classic 2D Snake Game implemented in Python using the Turtle graphics 
    - `snake_game.py`: Main Python script for the game.
    - `snake.py`: Snake class definition.
    - `food.py`: Food class definition.
+   - 'scoreboard.py': For monitering the score.
 
